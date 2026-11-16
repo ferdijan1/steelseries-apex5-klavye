@@ -1,3 +1,21 @@
+Herkese Merhabalar;
+SteelSeries apex 5 Oled ekranlı bir klavye aldım ancak uygulamasında oled i özelleştirebileceğim çok bir seçenek olmadığını fark ettim bunun üzerine claude ai ile birlikte bir uygulama oluşturdum test ettim şimdilik aklıma gelen çoğu özelliği koydum gerekli gereksiz :D 
+Yapmışken de paylaşmak istedim
+Ancak şimdilik fikirlerim tükendi daha da geliştirmek isterim ama şuan ki haliyle bile büyük fark var diyebilirim.
+Kullanım ve yorumlarınızı 4 gözle bekliyorum Teşekkürler...
+
+
+Kullanım için ApexOLED zip dosyasını masaüstüne klasör olarak oluşturup klasörün içinde "dist" klasörü görüceksiniz içine girdiğinizde exe halini görebilirsiniz. Çift tıklayarak kullanıma başlayabilirsiniz.
+
+Claude un oluşturduğu bütün yazı kodları buraya aktarıyorum kontrol edebilirsiniz!
+
+
+
+
+
+
+
+
 """
 Apex OLED Tool v8
 SteelSeries Apex 5 OLED ekranı için: uygulamaya göre yazı/görsel, arka planda çalan medya,
