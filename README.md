@@ -8,8 +8,31 @@ Kullanım ve yorumlarınızı 4 gözle bekliyorum Teşekkürler...
 Kullanım için ApexOLED zip dosyasını masaüstüne klasör olarak oluşturup klasörün içinde "dist" klasörü görüceksiniz içine girdiğinizde exe halini görebilirsiniz. Çift tıklayarak kullanıma başlayabilirsiniz.
 
 Claude un oluşturduğu bütün yazı kodları buraya aktarıyorum kontrol edebilirsiniz!
+Uygulama Türkçe Arayüzdür!
 
+Hello everyone!
 
+I recently purchased a SteelSeries Apex 5 keyboard with an OLED display, but I quickly realized that the SteelSeries software offers very limited customization options for the OLED screen.
+
+So, I decided to do something about it! With the help of Claude AI, I developed my own application and put it through some testing. For now, I've included pretty much every feature that came to mind — some useful, some perhaps not so much. :D
+
+Since I put the effort into creating it, I thought I'd share it with the community!
+
+I've currently run out of ideas for new features, but I'd really like to keep improving the application. Even in its current state, though, I can confidently say it makes a huge difference.
+
+I'd love to hear your feedback, suggestions, and thoughts. I'm really looking forward to seeing how you use it!
+
+**How to use:**
+
+1. Extract the `ApexOLED` ZIP file to your desktop.
+2. Open the extracted folder.
+3. Navigate to the `dist` folder.
+4. You'll find the `.exe` file inside.
+5. Simply double-click it to launch the application.
+
+I'm also sharing all the source code generated with Claude below, so feel free to inspect it, review it, and see how everything works!
+
+Thank you, and I hope you enjoy using it!
 
 
 
